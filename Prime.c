@@ -1,4 +1,4 @@
-#include
+#include<stdio.h>
 int Prime(int x,int y);
 void main()
 {
